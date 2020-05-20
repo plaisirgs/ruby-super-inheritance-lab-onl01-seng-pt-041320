@@ -18,3 +18,4 @@ class Student < User
     @in_class = true
   end
 end
+
