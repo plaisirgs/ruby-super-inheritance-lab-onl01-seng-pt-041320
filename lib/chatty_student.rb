@@ -6,9 +6,9 @@ class ChattyStudent < Student
   
   def raise_hand
    super
-   puts 10.times { puts "Pick me!"}
-   end
-  
+   bottle = 0
+until bottle == 10
+  bottle += 1
 
 end
 
