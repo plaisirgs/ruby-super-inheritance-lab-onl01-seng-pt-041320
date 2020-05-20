@@ -1,4 +1,4 @@
-def Student
+class Student
   
   def hello
   
